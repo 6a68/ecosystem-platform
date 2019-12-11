@@ -4,15 +4,14 @@ title: Platform Overview
 sidebar_label: Platform Overview
 ---
 
-## What is FxA
+## What is Firefox Accounts
 
-Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chick
+Firefox Accounts (FxA) is an identity provider that provides authentication and user profile data for Mozilla cloud services.  We are also exploring the possibility of allowing non-Mozilla services to delegate authentication to Firefox Accounts.
 
 ## What is the Subscription Platform
 
-Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chick
+The Subscription Platform is a project to enable Firefox Accounts users to pay for Mozilla products and services.
 
 ## What are Synced Client Integrations
 
-Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chick
-
+Sync & Account Client Integrations team builds foundational components for a connected ecosystem of Firefox products, empowering teams throughout Mozilla to build rich and consistent product experiences around our trusted stewardship of the user's personal browser data.
